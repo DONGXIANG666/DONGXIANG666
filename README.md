@@ -1,5 +1,13 @@
 ## Hi there 👋
 🔭 I’m currently working on U OF T
+🌱 I’m currently learning PYTHON
+👯 I’m looking to collaborate on organizations that i want
+🤔 I’m looking for help with langurage of "c"
+💬 Ask me about PCB Defect Detection
+📫 How to reach me:xxdong29@gmail.com
+😄 Pronouns:some vidoe games of cp, hung out with  my best friends
+💩:bitch fucking no way
+
 
 <!--
 **DONGXIANG666/DONGXIANG666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
