@@ -1,6 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on U OF T
-🌱 I’m currently learning PYTHON
+#🔭 I’m currently working on U OF T
+#🌱 I’m currently learning PYTHON
 👯 I’m looking to collaborate on organizations that i want
 🤔 I’m looking for help with langurage of "c"
 💬 Ask me about PCB Defect Detection
