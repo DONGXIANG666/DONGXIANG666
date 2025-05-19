@@ -34,7 +34,5 @@
 <p align="center">
 &nbsp; <a href="https://u.wechat.com/ED3rD4E80pUD51LGCMabj5I?s=2" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/100/external-wechat-a-chinese-multi-purpose-messaging-social-media-and-mobile-payment-app-logo-tritone-tal-revivo.png" width="50" /></a>
 &nbsp; <a href="https://qm.qq.com/q/QsYVitC0so" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/100/external-tencent-qq-an-instant-messaging-software-service-and-web-portal-developed-logo-tritone-tal-revivo.png" width="50" /></a>
-&nbsp; <a href="mailto:gadu.sky@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/100/external-new-unread-email-email-tritone-tal-revivo.png"  width="50" /></a>
-</p>
-
+&nbsp; <a href="[https://u.wechat.com/ED3rD4E80pUD51LGCMabj5I?s=2](https://mail.google.com/mail/u/0/#inbox)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/100/external-wechat-a-chinese-multi-purpose-messaging-social-media-and-mobile-payment-app-logo-tritone-tal-revivo.png" width="50" /></a>
 
