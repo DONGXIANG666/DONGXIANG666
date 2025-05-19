@@ -38,4 +38,4 @@
 &nbsp; <a href="mailto:gadu.sky@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/100/external-new-unread-email-email-tritone-tal-revivo.png"  width="50" /></a>
 </p>
 
-![Song2770's github activity graph](https://raw.githubusercontent.com/Song2770/Song2770/output/github-contribution-grid-snake-dark.svg)
+
